@@ -6,7 +6,7 @@ A new Flutter project.
  
 
 
-- [Web app link](https://yashvenrakumar.github.io/#/home)
+- [Web app link](https://ashutoshmishra88.github.io/Wolkus-Project/)
  
   
  ## Instruction to used the flutter code :
