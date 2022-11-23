@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
  
 
-- [Github Pages](https://github.com/yashvenrakumar/yashvenrakumar.github.io.git)
+
 - [Web app link](https://yashvenrakumar.github.io/#/home)
  
   
